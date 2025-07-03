@@ -62,3 +62,8 @@ This notebook explores donor molecule structures to identify **common substructu
 ### ✅ TL;DR
 - `main.ipynb`: Benchmarks ~10 descriptor combinations for OPV PCE prediction; interprets models with SHAP and sanity checks via y-randomisation
 - `Plot.ipynb`: Visualizes chemical fragments in donor molecules; aids interpretation of predictive features
+
+## License
+- **Code**: MIT (see `LICENSE`)
+- **Datasets & pretrained models**: CC-BY-4.0 (see `LICENSE-DATA`)
+Please cite our accompanying publication when reusing.
